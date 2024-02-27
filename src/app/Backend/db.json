@@ -1,0 +1,291 @@
+{
+  "Team": [
+  {"id":1,
+    "name":"Cote d'Ivoire",
+    "flag":"../src/assets/ic.png",
+    "group":"A"
+  },
+  {
+    "id":2,
+    "name":"Nigeria",
+    "group":"A"
+  },
+  {
+    "id":3,
+    "name":"Guinee Equatorial",
+    "group":"A"
+  },
+  {
+    "id":4,
+    "name":"Guinee Bissau",
+    "group":"A"
+  },
+  {
+    "id":5,
+    "name":"Egypte",
+    "group":"B"
+  },
+    {
+      "id":6,
+    "name":"Ghana",
+    "group":"B"
+  },
+    {
+      "id":7,
+    "name":"Cap Vert",
+    "group":"B"
+  },
+    {
+      "id":8,
+    "name":"Mozambique",
+    "group":"B"
+  },
+    {
+      "id":9,
+    "name":"Senegal",
+    "group":"C"
+  },
+    {
+      "id":10,
+    "name":"Cameroon",
+    "group":"C"
+  },
+    {
+      "id":11,
+    "name":"Guinee",
+    "group":"C"
+  },
+    {
+      "id":12,
+    "name":"Gambie",
+    "group":"C"
+  }
+,
+    {
+      "id":13,
+    "name":"Algerie",
+    "group":"D"
+  },
+    {
+      "id":14,
+    "name":"Burkina Faso",
+    "group":"D"
+  },
+    {
+      "id":15,
+    "name":"Mauritanie",
+    "group":"D"
+  },
+    {"id":16,
+    "name":"Angola",
+    "group":"D"
+  }
+,
+    {
+      "id":17,
+    "name":"Tunisie",
+    "group":"E"
+  },
+    {
+      "id":18,
+    "name":"Mali",
+    "group":"E"
+  }
+  ,
+    {
+      "id":19,
+    "name":"Afrique du Sud",
+    "group":"E"
+  },
+    {
+      "id":20,
+    "name":"Namibie",
+    "group":"E"
+  },
+    {
+      "id":21,
+    "name":"Maroc",
+    "group":"F"
+  },
+    {
+      "id":22,
+    "name":"Republique Du Congo",
+    "group":"F"
+  },
+    {
+      "id":23,
+    "name":"Zambie",
+    "group":"F"
+  },
+    {
+      "id":24,
+    "name":"Tanzanie",
+    "group":"F"
+  }
+  ],
+
+    "match":[
+      {
+        "date":"12/25/2023 15:00",
+        "teamA":1,
+        "teamB":4
+    },
+      {
+        "date":"01/13/2024 15:00",
+        "teamA":1,
+        "teamB":4
+    },
+     {
+        "date":"01/14/2024 9:00",
+        "teamA":2,
+        "teamB":3
+    },
+       {
+        "date":"01/14/2024 12:00",
+        "teamA":5,
+        "teamB":8
+    },
+     {
+        "date":"01/14/2024 15:00",
+        "teamA":6,
+        "teamB":7
+    },
+     {
+        "date":"01/15/2024 9:00",
+        "teamA":9,
+        "teamB":12
+    },
+       {
+        "date":"01/15/2024 12:00",
+        "teamA":10,
+        "teamB":11
+    },   {
+        "date":"01/15/2024 15:00",
+        "teamA":13,
+        "teamB":15
+    },   {
+        "date":"01/16/2024 9:00",
+        "teamA":14,
+        "teamB":15
+    },   {
+        "date":"01/16/2024 12:00",
+        "teamA":17,
+        "teamB":20
+    },   {
+        "date":"01/16/2024 15:00",
+        "teamA":18,
+        "teamB":19
+    },   {
+        "date":"01/17/2024 12:00",
+        "teamA":21,
+        "teamB":24
+    },   {
+        "date":"01/17/2024 15:00",
+        "teamA":22,
+        "teamB":23
+    },   {
+        "date":"01/18/2024 9:00",
+        "teamA":3,
+        "teamB":4
+    },   {
+        "date":"01/18/2024 12:00",
+        "teamA":1,
+        "teamB":2
+    },   {
+        "date":"01/18/2024 15:00",
+        "teamA":5,
+        "teamB":6
+    },   {
+        "date":"01/19/2024 9:00",
+        "teamA":7,
+        "teamB":8
+    },   {
+        "date":"01/19/2024 12:00",
+        "teamA":9,
+        "teamB":10
+    },   {
+        "date":"01/19/2024 15:00",
+        "teamA":11,
+        "teamB":12
+    },   {
+        "date":"01/20/2024 9:00",
+        "teamA":13,
+        "teamB":14
+    },   {
+        "date":"01/20/2024 12:00",
+        "teamA":15,
+        "teamB":16
+    },   {
+        "date":"01/20/2024 15:00",
+        "teamA":17,
+        "teamB":18
+    },
+       {
+        "date":"01/21/2024 9:00",
+        "teamA":21,
+        "teamB":22
+    },   {
+        "date":"01/21/2024 12:00",
+        "teamA":23,
+        "teamB":24
+    },   {
+        "date":"01/21/2024 15:00",
+        "teamA":19,
+        "teamB":20
+    },   {
+        "date":"01/22/2024 12:00",
+        "teamA":4,
+        "teamB":2
+    },   {
+        "date":"01/22/2024 12:00",
+        "teamA":3,
+        "teamB":1
+    },   {
+        "date":"01/22/2024 15:00",
+        "teamA":8,
+        "teamB":6
+    },   {
+        "date":"01/22/2024 15:00",
+        "teamA":7,
+        "teamB":5
+    },   {
+        "date":"01/23/2024 12:00",
+        "teamA":12,
+        "teamB":10
+    },   {
+        "date":"01/23/2024 12:00",
+        "teamA":11,
+        "teamB":9
+    },   {
+        "date":"01/23/2024 15:00",
+        "teamA":15,
+        "teamB":13
+    },   {
+        "date":"01/23/2024 15:00",
+        "teamA":16,
+        "teamB":14
+    },
+       {
+        "date":"01/24/2024 12:00",
+        "teamA":20,
+        "teamB":18
+    },   {
+        "date":"01/24/2024 12:00",
+        "teamA":19,
+        "teamB":17
+    },   {
+        "date":"01/24/2024 15:00",
+        "teamA":23,
+        "teamB":18
+    },   {
+        "date":"01/24/2024 15:00",
+        "teamA":24,
+        "teamB":22
+    },   {
+        "date":"01/14/2024 12:00",
+        "teamA":1,
+        "teamB":4
+    }
+  ]
+
+}

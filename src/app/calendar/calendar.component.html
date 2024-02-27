@@ -1,0 +1,34 @@
+<div class="container">
+
+  <div class="row">
+    <div class="col-12">
+
+      <h1 class="text-center">Can 2024 Calendar</h1>
+      <ag-grid-angular [rowData]="allMatches" [columnDefs]="colDefs" class="ag-theme-quartz" style="height: 500px;">
+      </ag-grid-angular>
+      <!-- <div class="card text-white bg-primary mb-3" *ngFor="let item of match" style="width: 18rem;">
+        <div class="card-header">Group {{getGroup(item.teamA)}}</div>
+        <div class="card-body">
+          <div class="card-text text-center">
+            <h5 class="card-title text-center">{{item.date | date}} {{item.date | date :'h:mm a' }}</h5>
+            {{getTeam(item.teamA)}} Vs {{getTeam(item.teamB)}}
+          </div>
+        </div>
+      </div> -->
+    </div>
+    <!--
+    <table class="table table-striped table-bordered">
+      <tr>
+        <th>Date</th>
+        <th>Time</th>
+        <th>Match</th>
+      </tr>
+      <tr *ngFor="let item of match">
+        <td>{{item.date | date}}</td>
+        <td>{{item.date | date :'h:mm a' }}</td>
+        <td>{{getTeam(item.teamA)}} Vs {{getTeam(item.teamB)}}</td>
+        <td>{{getGroup(item.teamA)}}</td>
+      </tr>
+    </table> -->
+  </div>
+</div>
